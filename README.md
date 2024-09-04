@@ -1,4 +1,4 @@
-# Hi, My Name Is Edward :blush:
+# Hi, My Name Is Edward 😄:
 Hello and welcome! I am a student at FATEC Zona Leste, passionate about the world of technology, with a special emphasis on relational and non-relational databases, as well as software analysis and documentation.
 
 I am improving my knowledge in NoSQL, SQL, and UML. I am also a student of IBM's P-TECH program, which aims to support students in the technology field through lectures and mentoring.
